@@ -1,4 +1,4 @@
-import 'dotenv/config';
+import './bootstrap';
 
 import express from 'express'; // add dependencia SUCRASE para permitir o javascript node importar lib dessa forma com o import
 import 'express-async-errors';
