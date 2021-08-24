@@ -1,6 +1,6 @@
 # gobarber
 
-node.js application using postgres database and docker for backend studies.
+Node.js application using Postgresql database and Docker for backend studies.
 
 ### In this project contains:
 
